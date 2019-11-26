@@ -16,7 +16,7 @@ redirect_from:
 # Help, Support, and Mailing Lists #
 
 Help and support for Qubes OS is available from the [documentation] and the
-[mailing lists], which are explained below. The Qubes OS Project does not offer
+mailing lists, which are explained below. The Qubes OS Project does not offer
 paid support services.
 
 If you're looking for known issues or would like to file a bug report, please
@@ -339,7 +339,6 @@ To unsubscribe, send a blank email to `qubes-translation+unsubscribe@googlegroup
 This list also has an optional [Google Groups web interface][qubes-translation-web].
 
 
-[mailing lists]: https://en.wikipedia.org/wiki/Electronic_mailing_list
 [Qubes team]: /team/
 [contributions]: /doc/contributing/
 [code-signing]: /doc/code-signing/
